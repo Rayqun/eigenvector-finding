@@ -1,0 +1,1 @@
+cs61c-eh  #replace the blanks with your partner's login, or leave this file blank if you don't have a partner.
